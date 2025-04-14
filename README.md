@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leo-Muo
-- 👀 I’m interested in Artificial Intelligence, Cloud Computing, Algorithms, Games, Art and Quantum Computers.
-- 🌱 I’m currently learning Advanced Scripting(Bash and Python), Development and deployment of network services(.Net ecosystem), and Android Development(Kotlin).
-- 💞️ I’m looking to collaborate on any project that will develope my skills in computing.
+- 👀 I’m interested in Artificial Intelligence, Cloud Computing, Algorithms, Games, Art, and Quantum Computers.
+- 🌱 I’m currently learning Advanced Scripting(Bash and Python), Development and deployment of network services and AI, electronics, and Quantum Computer programming.
+- 💞️ I’m looking to collaborate on any project that will develop my skills in computing.
 - 📫 How to reach me... email: v.muoghara@gmail.com
 
 <!---
